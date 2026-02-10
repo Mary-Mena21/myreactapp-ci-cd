@@ -1,5 +1,6 @@
 {
   "name": "myreactapp-ci-cd",
+  "homepage": "https://github.com/andrewdavies/myreactapp-ci-cd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
