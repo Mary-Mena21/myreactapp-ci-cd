@@ -1,12 +1,14 @@
 import React from 'react';
-// import './App.css';
+import './App.css';
 import Form from './Component/form';
 
 function App() {
   return (
     <>
-      <h1>Hello world</h1>
-      <Form/> 
+      <div className="App-header">
+      <h1>TODO App</h1>
+        <Form /> 
+        </div>
     </>
   );
 }
