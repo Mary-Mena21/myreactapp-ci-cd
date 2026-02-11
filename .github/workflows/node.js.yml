@@ -1,5 +1,5 @@
 
-name: Node.js CI
+name: Deploy using GitHub Action
 
 on:
   push:
